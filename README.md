@@ -11,7 +11,7 @@ Este é um trabalho para composição de Menção na Matéria de Programação M
 ## Descrição do que foi proposto pelo Professor. 
 
 <p align="justify">
--A primeira tela funcionará como um cadastro (de alunos, pacientes, pontos 
+A primeira tela funcionará como um cadastro (de alunos, pacientes, pontos 
 turísticos.... pensem livremente). Esta tela terá um botão CADASTRAR. Ao clicar neste botão 
 abre-se a segunda tela;
 OBS.: Nesta tela devemos ter uma escolha por RADIOBUTTON e outra por SPINNER.
