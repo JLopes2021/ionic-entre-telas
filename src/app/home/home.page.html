@@ -1,0 +1,19 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Avaliação 2 Tri
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-item>
+    <ion-label>Selecione o Curso</ion-label>
+    <ion-select class="custom-options" (ionChange)="verificaSelecionado($event)">
+      <ion-select-option value="curso-adm">{{curso1.nome}}</ion-select-option>
+      <ion-select-option value="curso-bio">{{curso2.nome}}</ion-select-option>
+      <ion-select-option value="curso-coz">{{curso3.nome}}</ion-select-option>
+      <ion-select-option value="curso-dir">{{curso4.nome}}</ion-select-option>
+    </ion-select>
+  </ion-item>
+</ion-content>
