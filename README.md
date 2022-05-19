@@ -7,18 +7,6 @@ Este é um trabalho para composição de Menção na Matéria de Programação M
 	🚧  Projeto Entre Telas 🚀 Em construção...  🚧 Para Composição de Menção
 </h4>
 
-### Tópicos 
-
-- [Descrição do projeto](#descrição-do-projeto)
-
-- [Ferramentas utilizadas](#ferramentas-utilizadas)
-
-- [Dicas de Produção](#dicas-de-producao) 
-
-- [Atualizações](#atualizacoes)
-
-- [Desenvolvedores](#desenvolvedores)
-
 
 ## Descrição do que foi proposto pelo Professor. 
 
