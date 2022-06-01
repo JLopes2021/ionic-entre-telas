@@ -4,7 +4,7 @@ Este é um trabalho para composição de Menção na Matéria de Programação M
 </p>
 
 <h4 align="center"> 
-	🚧  Projeto Entre Telas 🚀 Em construção...  🚧 Para Composição de Menção
+	🚧  Projeto Entre Telas 🚀 COMPLETO
 </h4>
 
 
